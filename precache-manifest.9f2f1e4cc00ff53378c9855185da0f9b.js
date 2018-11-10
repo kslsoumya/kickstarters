@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/kickstarters/static/js/1.02a39717.chunk.js"
   },
   {
-    "revision": "67a9555efa70fb063b6eca5eeabb46b3",
+    "revision": "2444f905f6e192bf8ae261804fc8b2ad",
     "url": "/kickstarters/index.html"
   }
 ];

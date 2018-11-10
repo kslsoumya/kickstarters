@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kickstarters/precache-manifest.e8d2766934e13da7d89e5afd58de101f.js"
+  "/kickstarters/precache-manifest.9f2f1e4cc00ff53378c9855185da0f9b.js"
 );
 
 workbox.clientsClaim();
